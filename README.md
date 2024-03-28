@@ -1,8 +1,5 @@
-**Custom Data Structures and Functions**
+***Custom Data Structures and Functions Framework for Robotics Applications***
 
-This C code provides a framework for managing variables of different data types in a linked list structure. It includes custom data structures for vectors, matrices, and complex sensor readings as examples. The code allows for dynamic allocation of memory for variable names and provides functions for adding variables to the list, displaying the list contents, and cleaning up memory after use.
-
-**Custom Data Structures**
 
 - **Vector3D**: Represents a 3-dimensional vector with components x, y, and z.
 - **Matrix4x4**: Represents a 4x4 matrix with floating-point elements.
